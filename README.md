@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prateektiwari7
 - 👀 I’m interested in Algorithms and Data Structure
-- ![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=790b7611694913786c99f4f1cbdf50022e516489018741c9&rid=giphy.gif&ct=g))
+- ![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=790b7611694913786c99f4f1cbdf50022e516489018741c9&rid=giphy.gif))
 - 🌱 I’m currently learning Codes
 
 
